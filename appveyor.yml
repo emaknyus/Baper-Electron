@@ -31,15 +31,3 @@ branches:
     only:
         - master
 
-deploy:
-- provider: BinTray
-  username: emaknyus
-  api_key:
-    secure: d6638fc364c86e065f38e702b14b8d7d6587de25
-  subject: badai
-  repo: baper
-  package: mypackage
-  version: version
-  publish: true
-  override: true
-  explode: true
