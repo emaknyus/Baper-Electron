@@ -1,8 +1,5 @@
 version: 0.1.{build}
 
-environment:
-  GH_TOKEN: db5b70365f16348a5f86bda8b6535e4700d8b206
-
 platform:
   - x64
   
