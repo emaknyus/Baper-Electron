@@ -5,7 +5,7 @@
   "main": "./main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HoverBaum/BlankUp-Electron.git"
+    "url": "git+https://github.com/emaknyus/BlankUp-Electron.git"
   },
   "private": true,
   "keywords": [
@@ -15,9 +15,9 @@
   "author": "Hendrik Wallbaum <mail@hendrikwallbaum.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HoverBaum/BlankUp-Electron/issues"
+    "url": "https://github.com/emaknyus/BlankUp-Electron/issues"
   },
-  "homepage": "https://github.com/HoverBaum/BlankUp-Electron",
+  "homepage": "https://github.com/emaknyus/BlankUp-Electron",
   "dependencies": {
     "BlankUp": "^0.2.0",
     "choo": "^3.0.0",
