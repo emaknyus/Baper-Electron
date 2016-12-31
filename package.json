@@ -16,7 +16,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HoverBaum/BlankUp-Electron.git"
+    "url": "git+https://github.com/emaknyus/BlankUp-Electron.git"
   },
   "keywords": [
     "Markdown",
@@ -26,9 +26,9 @@
   "author": "GitHub",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HoverBaum/BlankUp-Electron/issues"
+    "url": "https://github.com/emaknyus/BlankUp-Electron/issues"
   },
-  "homepage": "https://github.com/HoverBaum/BlankUp-Electron",
+  "homepage": "https://github.com/emaknyus/BlankUp-Electron",
   "devDependencies": {
     "concurrently": "^2.2.0",
     "electron-builder": "^5.16.0",
